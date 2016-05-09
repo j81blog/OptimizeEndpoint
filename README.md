@@ -1,5 +1,5 @@
 # OptimizeEndpoint
-Optimize Windows 7, 8, 8.1 & 10 for a Non-Persistent environment, e.g. XenDesktop
+Optimize Windows 7, 8, 8.1 & 10 for a Non-Persistent environment, e.g. XenDesktop<br>
 <br>
 The following tools are used within the script:<br>
 Devcon: <link>https://msdn.microsoft.com/en-us/library/windows/hardware/ff544707%28v=vs.85%29.aspx</link><br>
