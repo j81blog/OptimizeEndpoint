@@ -10,4 +10,4 @@ Nvspbind: link>http://social.technet.microsoft.com/wiki/contents/articles/191.hy
 
 PsExec: link>https://technet.microsoft.com/en-us/sysinternals/psexec.aspx</link><br>
 <br>
-Please make sure to place the executables in the same folder as the PowerShell or update the script with the correct parameters.<br>
+Please make sure to place the executables in the same folder as the PowerShell script or update the script with the correct parameters.<br>
